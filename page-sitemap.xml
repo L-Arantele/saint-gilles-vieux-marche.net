@@ -1,1647 +1,1647 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/saint-gilles-vieux-marche.net/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.20' -->
-<!-- generated-on='17 June 2024 21 h 52 min' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.21' -->
+<!-- generated-on='27 June 2024 16 h 42 min' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>/saint-gilles-vieux-marche.net/etang_de_gourveaux/</loc>
+		<loc>/etang_de_gourveaux/</loc>
 		<lastmod>2022-03-26T13:56:19+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/localisation/</loc>
+		<loc>/localisation/</loc>
 		<lastmod>2021-12-28T15:06:09+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/conseil_communautaire/</loc>
+		<loc>/conseil_communautaire/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le_crapaud_commun/</loc>
+		<loc>/le_crapaud_commun/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le_triton_marbre/</loc>
+		<loc>/le_triton_marbre/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/la_grenouille_verte/</loc>
+		<loc>/la_grenouille_verte/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/la_salamandre/</loc>
+		<loc>/la_salamandre/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le_dytique_borde/</loc>
+		<loc>/le_dytique_borde/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le_triton_palme/</loc>
+		<loc>/le_triton_palme/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/faune_st_gilloise/</loc>
+		<loc>/faune_st_gilloise/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pardon/</loc>
+		<loc>/pardon/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1958/</loc>
+		<loc>/classe_garcons_1958/</loc>
 		<lastmod>2022-08-06T15:41:32+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/promenades/</loc>
+		<loc>/promenades/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_mai_1937/</loc>
+		<loc>/mariage_mai_1937/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1945/</loc>
+		<loc>/classe_garcons_1945/</loc>
 		<lastmod>2022-08-06T15:38:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles__petites__1945/</loc>
+		<loc>/reponse_classe_filles__petites__1945/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1945/</loc>
+		<loc>/reponse_classe_garcons_1945/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/anciennes_cartes_postales/</loc>
+		<loc>/anciennes_cartes_postales/</loc>
 		<lastmod>2021-12-21T11:26:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1913/</loc>
+		<loc>/mariage_1913/</loc>
 		<lastmod>2022-08-06T15:48:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1933/</loc>
+		<loc>/mariage_1933/</loc>
 		<lastmod>2022-08-06T15:50:52+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1942/</loc>
+		<loc>/mariage_1942/</loc>
 		<lastmod>2022-08-06T15:53:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_19_avril_1938/</loc>
+		<loc>/mariage_19_avril_1938/</loc>
 		<lastmod>2022-08-06T15:52:08+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles__grandes__1945/</loc>
+		<loc>/reponse_classe_filles__grandes__1945/</loc>
 		<lastmod>2024-05-28T08:34:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/l_escargot_de_quimper/</loc>
+		<loc>/l_escargot_de_quimper/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1961/</loc>
+		<loc>/classe_garcons_1961/</loc>
 		<lastmod>2022-08-06T15:43:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_grands_garcons_1945/</loc>
+		<loc>/classe_grands_garcons_1945/</loc>
 		<lastmod>2022-08-06T15:39:16+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/communiants/</loc>
+		<loc>/communiants/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_1927/</loc>
+		<loc>/reponse_classe_filles_1927/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_1959/</loc>
+		<loc>/reponse_classe_filles_1959/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_grandes_1958/</loc>
+		<loc>/reponse_classe_filles_grandes_1958/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1961/</loc>
+		<loc>/reponse_classe_garcons_1961/</loc>
 		<lastmod>2022-10-04T14:59:45+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/ancienne_eglise/</loc>
+		<loc>/ancienne_eglise/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1954/</loc>
+		<loc>/classe_garcons_1954/</loc>
 		<lastmod>2022-08-06T15:40:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_1954/</loc>
+		<loc>/reponse_classe_filles_1954/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1954/</loc>
+		<loc>/reponse_classe_garcons_1954/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_communiants/</loc>
+		<loc>/reponse_communiants/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/fete_de_la_musique_2009/</loc>
+		<loc>/fete_de_la_musique_2009/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/la_grenouille_agile/</loc>
+		<loc>/la_grenouille_agile/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/la_grenouille_rousse/</loc>
+		<loc>/la_grenouille_rousse/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1907/</loc>
+		<loc>/mariage_1907/</loc>
 		<lastmod>2023-10-01T17:24:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1927/</loc>
+		<loc>/classe_garcons_1927/</loc>
 		<lastmod>2022-08-06T15:37:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1955/</loc>
+		<loc>/classe_garcons_1955/</loc>
 		<lastmod>2022-08-06T15:40:54+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_1938/</loc>
+		<loc>/reponse_classe_filles_1938/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1927/</loc>
+		<loc>/reponse_classe_garcons_1927/</loc>
 		<lastmod>2022-05-05T16:42:50+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1955/</loc>
+		<loc>/reponse_classe_garcons_1955/</loc>
 		<lastmod>2023-09-17T16:47:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1958/</loc>
+		<loc>/reponse_classe_garcons_1958/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/ginkgo/</loc>
+		<loc>/ginkgo/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_grandes_filles_1961/</loc>
+		<loc>/classe_grandes_filles_1961/</loc>
 		<lastmod>2022-08-06T15:43:20+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_petites_filles_1958/</loc>
+		<loc>/classe_petites_filles_1958/</loc>
 		<lastmod>2022-08-06T15:41:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_grandes_1961/</loc>
+		<loc>/reponse_classe_filles_grandes_1961/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_petite_1958/</loc>
+		<loc>/reponse_classe_filles_petite_1958/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1912/</loc>
+		<loc>/mariage_1912/</loc>
 		<lastmod>2023-10-01T15:54:52+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_grands_garcons_1945/</loc>
+		<loc>/reponse_classe_grands_garcons_1945/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/fete_de_la_musique_2010/</loc>
+		<loc>/fete_de_la_musique_2010/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_1965/</loc>
+		<loc>/classe_1965/</loc>
 		<lastmod>2022-08-06T15:44:16+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/coiffes/</loc>
+		<loc>/coiffes/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_1965/</loc>
+		<loc>/reponse_classe_1965/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1928/</loc>
+		<loc>/mariage_1928/</loc>
 		<lastmod>2022-08-06T15:49:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_oct_1913/</loc>
+		<loc>/mariage_oct_1913/</loc>
 		<lastmod>2022-08-06T15:48:07+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/cure/</loc>
+		<loc>/cure/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_1987/</loc>
+		<loc>/reponse_classe_1987/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/ancien_plan/</loc>
+		<loc>/ancien_plan/</loc>
 		<lastmod>2022-08-06T15:36:18+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/banquet_1910/</loc>
+		<loc>/banquet_1910/</loc>
 		<lastmod>2023-09-22T16:11:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_garcons_1939/</loc>
+		<loc>/classe_garcons_1939/</loc>
 		<lastmod>2022-08-06T15:38:37+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_st_jo_1958/</loc>
+		<loc>/classe_st_jo_1958/</loc>
 		<lastmod>2022-08-06T15:42:22+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_fille_1955/</loc>
+		<loc>/reponse_classe_fille_1955/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_1963/</loc>
+		<loc>/reponse_classe_filles_1963/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_st_jo_1954/</loc>
+		<loc>/reponse_classe_st_jo_1954/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_st_jo_1958/</loc>
+		<loc>/reponse_classe_st_jo_1958/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/11_novembre/</loc>
+		<loc>/11_novembre/</loc>
 		<lastmod>2021-12-21T11:26:55+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/famille_1943/</loc>
+		<loc>/famille_1943/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/famille_1959/</loc>
+		<loc>/famille_1959/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1940/</loc>
+		<loc>/mariage_1940/</loc>
 		<lastmod>2022-08-06T15:52:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chapelle_st_yves/</loc>
+		<loc>/chapelle_st_yves/</loc>
 		<lastmod>2024-02-04T17:30:09+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_dec_1931/</loc>
+		<loc>/mariage_dec_1931/</loc>
 		<lastmod>2022-08-06T15:50:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/cours_carrel/</loc>
+		<loc>/cours_carrel/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/recensements/</loc>
+		<loc>/recensements/</loc>
 		<lastmod>2022-06-07T09:43:33+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_filles_petites_1961/</loc>
+		<loc>/reponse_classe_filles_petites_1961/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/serveurs_1937/</loc>
+		<loc>/serveurs_1937/</loc>
 		<lastmod>2022-08-06T15:51:43+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/anciennes_affiches/</loc>
+		<loc>/anciennes_affiches/</loc>
 		<lastmod>2022-06-08T12:38:36+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/eleves_1882/</loc>
+		<loc>/eleves_1882/</loc>
 		<lastmod>2022-06-08T12:47:22+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/arrete_municipal/</loc>
+		<loc>/arrete_municipal/</loc>
 		<lastmod>2021-12-21T11:26:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_janvier_1928/</loc>
+		<loc>/mariage_janvier_1928/</loc>
 		<lastmod>2023-10-02T16:50:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/cours_jego/</loc>
+		<loc>/cours_jego/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reponse_classe_garcons_1939/</loc>
+		<loc>/reponse_classe_garcons_1939/</loc>
 		<lastmod>2022-05-05T16:47:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/etang_de_la_martyre/</loc>
+		<loc>/etang_de_la_martyre/</loc>
 		<lastmod>2023-03-29T12:27:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/etang_de_poulancre/</loc>
+		<loc>/etang_de_poulancre/</loc>
 		<lastmod>2023-03-29T12:26:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/g_spot_flexi_vibe/</loc>
+		<loc>/g_spot_flexi_vibe/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/natura_2000/</loc>
+		<loc>/natura_2000/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/conseil_municipal/</loc>
+		<loc>/conseil_municipal/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/compte_rendu_municipal_2008_2014/</loc>
+		<loc>/compte_rendu_municipal_2008_2014/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/nature/</loc>
+		<loc>/nature/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/infos_communales/</loc>
+		<loc>/infos_communales/</loc>
 		<lastmod>2024-06-15T12:31:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/meg_mackenzie_brookes/</loc>
+		<loc>/meg_mackenzie_brookes/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/concerts/</loc>
+		<loc>/concerts/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/diane_morgan/</loc>
+		<loc>/diane_morgan/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mad_cows/</loc>
+		<loc>/mad_cows/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/maligorn_du/</loc>
+		<loc>/maligorn_du/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/beanz_on_tap/</loc>
+		<loc>/beanz_on_tap/</loc>
 		<lastmod>2021-12-21T11:26:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/musicians_of_the_vallee/</loc>
+		<loc>/musicians_of_the_vallee/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/dianav/</loc>
+		<loc>/dianav/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/shake_the_tree/</loc>
+		<loc>/shake_the_tree/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/steve_francis/</loc>
+		<loc>/steve_francis/</loc>
 		<lastmod>2023-06-16T10:13:47+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/dik_banovich/</loc>
+		<loc>/dik_banovich/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/ecole_musique_mur/</loc>
+		<loc>/ecole_musique_mur/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/synell/</loc>
+		<loc>/synell/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/electric_circus/</loc>
+		<loc>/electric_circus/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_petites_filles_1945/</loc>
+		<loc>/classe_petites_filles_1945/</loc>
 		<lastmod>2022-08-06T15:39:36+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/a-a-a/</loc>
+		<loc>/a-a-a/</loc>
 		<lastmod>2021-12-21T11:26:55+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/the_voice_of_the_voiceless/</loc>
+		<loc>/the_voice_of_the_voiceless/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/wek_617/</loc>
+		<loc>/wek_617/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/four_a_pain/</loc>
+		<loc>/four_a_pain/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/histoires/</loc>
+		<loc>/histoires/</loc>
 		<lastmod>2022-07-03T16:07:18+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_grandes_filles_1945/</loc>
+		<loc>/classe_grandes_filles_1945/</loc>
 		<lastmod>2022-08-06T15:39:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/enoalie/</loc>
+		<loc>/enoalie/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/bluish_poppies/</loc>
+		<loc>/bluish_poppies/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1958/</loc>
+		<loc>/classe_filles_1958/</loc>
 		<lastmod>2022-08-06T15:42:08+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mojomachine/</loc>
+		<loc>/mojomachine/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/musiciens/</loc>
+		<loc>/musiciens/</loc>
 		<lastmod>2021-12-27T17:34:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/onyx/</loc>
+		<loc>/onyx/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/affiches/</loc>
+		<loc>/affiches/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1927/</loc>
+		<loc>/classe_filles_1927/</loc>
 		<lastmod>2022-08-06T15:37:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1959/</loc>
+		<loc>/classe_filles_1959/</loc>
 		<lastmod>2022-08-06T15:42:46+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/compte_rendu_municipal_2014_2020/</loc>
+		<loc>/compte_rendu_municipal_2014_2020/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/claire_et_ses_obscurs/</loc>
+		<loc>/claire_et_ses_obscurs/</loc>
 		<lastmod>2021-12-21T11:26:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1954/</loc>
+		<loc>/classe_filles_1954/</loc>
 		<lastmod>2022-08-06T15:40:20+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/meskan/</loc>
+		<loc>/meskan/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/nasca/</loc>
+		<loc>/nasca/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/reactors/</loc>
+		<loc>/reactors/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/dirty_kids/</loc>
+		<loc>/dirty_kids/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/guilloux/</loc>
+		<loc>/guilloux/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/bulleurs_de_mots/</loc>
+		<loc>/bulleurs_de_mots/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1938/</loc>
+		<loc>/classe_filles_1938/</loc>
 		<lastmod>2022-08-06T15:38:17+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mockingbirds/</loc>
+		<loc>/mockingbirds/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/oxp/</loc>
+		<loc>/oxp/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/quatuor_tout_terrain/</loc>
+		<loc>/quatuor_tout_terrain/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/iwishiwasa/</loc>
+		<loc>/iwishiwasa/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/morphee/</loc>
+		<loc>/morphee/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/regine_quidu/</loc>
+		<loc>/regine_quidu/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/john_glucose/</loc>
+		<loc>/john_glucose/</loc>
 		<lastmod>2021-12-21T11:27:02+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chants_ecole_mur/</loc>
+		<loc>/chants_ecole_mur/</loc>
 		<lastmod>2021-12-21T11:26:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/soleil_noir/</loc>
+		<loc>/soleil_noir/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le_jardin_d__anne_marijke/</loc>
+		<loc>/le_jardin_d__anne_marijke/</loc>
 		<lastmod>2023-01-03T15:21:08+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/principe_actif/</loc>
+		<loc>/principe_actif/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/the_bird_is_yellow/</loc>
+		<loc>/the_bird_is_yellow/</loc>
 		<lastmod>2021-12-21T11:27:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage_1929/</loc>
+		<loc>/mariage_1929/</loc>
 		<lastmod>2023-10-01T15:44:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_1987/</loc>
+		<loc>/classe_1987/</loc>
 		<lastmod>2022-08-06T15:44:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1955/</loc>
+		<loc>/classe_filles_1955/</loc>
 		<lastmod>2022-08-06T15:41:12+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_filles_1963/</loc>
+		<loc>/classe_filles_1963/</loc>
 		<lastmod>2022-08-06T15:43:50+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_st_jo_1954/</loc>
+		<loc>/classe_st_jo_1954/</loc>
 		<lastmod>2022-08-06T15:40:37+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/compte_rendu_communautaire/</loc>
+		<loc>/compte_rendu_communautaire/</loc>
 		<lastmod>2021-12-21T11:26:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classe_petites_filles_1961/</loc>
+		<loc>/classe_petites_filles_1961/</loc>
 		<lastmod>2022-08-06T15:43:07+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/deliberation_municipale_1884/</loc>
+		<loc>/deliberation_municipale_1884/</loc>
 		<lastmod>2022-06-08T12:40:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/gelees-dhiver/</loc>
+		<loc>/gelees-dhiver/</loc>
 		<lastmod>2021-12-21T11:27:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/couleurs-dautomne/</loc>
+		<loc>/couleurs-dautomne/</loc>
 		<lastmod>2021-12-21T11:27:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/neige-de-noel-2009/</loc>
+		<loc>/neige-de-noel-2009/</loc>
 		<lastmod>2021-12-21T11:27:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/printemps-vegetal/</loc>
+		<loc>/printemps-vegetal/</loc>
 		<lastmod>2021-12-21T11:27:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/contact/</loc>
+		<loc>/contact/</loc>
 		<lastmod>2024-01-02T08:45:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariages-et-banquets/</loc>
+		<loc>/mariages-et-banquets/</loc>
 		<lastmod>2023-10-01T15:46:42+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/classes-et-scolarite/</loc>
+		<loc>/classes-et-scolarite/</loc>
 		<lastmod>2022-06-08T12:51:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/patrimoine/</loc>
+		<loc>/patrimoine/</loc>
 		<lastmod>2023-10-16T17:29:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-les-cuirassiers-de-reichshoffen/</loc>
+		<loc>/chanson-les-cuirassiers-de-reichshoffen/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/livret-de-chansons-de-j-b-blanchard/</loc>
+		<loc>/livret-de-chansons-de-j-b-blanchard/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-la-ferme-des-rosiers-1888/</loc>
+		<loc>/chanson-la-ferme-des-rosiers-1888/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-les-petits-ramoneurs/</loc>
+		<loc>/chanson-les-petits-ramoneurs/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-le-bal-de-lhotel-de-ville-1879/</loc>
+		<loc>/chanson-le-bal-de-lhotel-de-ville-1879/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-stances-a-manon-1896/</loc>
+		<loc>/chanson-stances-a-manon-1896/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-sambre-et-meuse1870/</loc>
+		<loc>/chanson-sambre-et-meuse1870/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-la-fleur-de-lhymenee/</loc>
+		<loc>/chanson-la-fleur-de-lhymenee/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-les-vingt-huit-jours-dun-pinson-1886/</loc>
+		<loc>/chanson-les-vingt-huit-jours-dun-pinson-1886/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-sous-les-tilleuls-1858/</loc>
+		<loc>/chanson-sous-les-tilleuls-1858/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-djelma-la-brune-1891/</loc>
+		<loc>/chanson-djelma-la-brune-1891/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-le-bon-gite-1875/</loc>
+		<loc>/chanson-le-bon-gite-1875/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-la-promise-1891/</loc>
+		<loc>/chanson-la-promise-1891/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-quatre-sergents-de-la-rochelle-1848/</loc>
+		<loc>/chanson-quatre-sergents-de-la-rochelle-1848/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-violetta/</loc>
+		<loc>/chanson-violetta/</loc>
 		<lastmod>2021-12-21T11:26:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-le-bouquet-de-lalsacien/</loc>
+		<loc>/chanson-le-bouquet-de-lalsacien/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-offre-moi-ton-baiser-1892/</loc>
+		<loc>/chanson-offre-moi-ton-baiser-1892/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-la-prise-dun-drapeau/</loc>
+		<loc>/chanson-la-prise-dun-drapeau/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-cest-toujours-le-printemps/</loc>
+		<loc>/chanson-cest-toujours-le-printemps/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-les-reves-dor/</loc>
+		<loc>/chanson-les-reves-dor/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-loasis/</loc>
+		<loc>/chanson-loasis/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-au-camp/</loc>
+		<loc>/chanson-au-camp/</loc>
 		<lastmod>2021-12-21T11:26:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-je-men-rappelle-plus/</loc>
+		<loc>/chanson-je-men-rappelle-plus/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-lamour-perdu/</loc>
+		<loc>/chanson-lamour-perdu/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-le-siege-de-paris/</loc>
+		<loc>/chanson-le-siege-de-paris/</loc>
 		<lastmod>2021-12-21T11:26:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/chanson-armee-dafrique-1855/</loc>
+		<loc>/chanson-armee-dafrique-1855/</loc>
 		<lastmod>2021-12-21T11:26:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-1945/</loc>
+		<loc>/mariage-1945/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/maries-1913/</loc>
+		<loc>/maries-1913/</loc>
 		<lastmod>2021-12-30T12:06:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-avril-1951/</loc>
+		<loc>/mariage-avril-1951/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-1948/</loc>
+		<loc>/mariage-1948/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-septembre-1930/</loc>
+		<loc>/mariage-septembre-1930/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-avril-1946/</loc>
+		<loc>/mariage-avril-1946/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/11079-2/</loc>
+		<loc>/11079-2/</loc>
 		<lastmod>2022-08-05T15:17:39+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-septembre-1935/</loc>
+		<loc>/mariage-septembre-1935/</loc>
 		<lastmod>2021-12-21T11:27:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mariage-juillet-1932/</loc>
+		<loc>/mariage-juillet-1932/</loc>
 		<lastmod>2021-12-21T11:27:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/alexandre-lebreton/</loc>
+		<loc>/alexandre-lebreton/</loc>
 		<lastmod>2021-12-21T11:26:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/alain-de-keranflech/</loc>
+		<loc>/alain-de-keranflech/</loc>
 		<lastmod>2023-10-17T16:34:32+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/au-champ-dhonneur-1914-18/</loc>
+		<loc>/au-champ-dhonneur-1914-18/</loc>
 		<lastmod>2023-10-16T16:47:41+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-baptiste-garin/</loc>
+		<loc>/jean-baptiste-garin/</loc>
 		<lastmod>2023-10-18T15:56:18+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-pedro/</loc>
+		<loc>/francois-pedro/</loc>
 		<lastmod>2023-10-18T16:05:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-marie-coste/</loc>
+		<loc>/francois-marie-coste/</loc>
 		<lastmod>2023-10-18T16:13:19+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-francois-le-denmat/</loc>
+		<loc>/jean-francois-le-denmat/</loc>
 		<lastmod>2023-10-18T15:18:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-meheu/</loc>
+		<loc>/joseph-marie-meheu/</loc>
 		<lastmod>2023-10-17T16:38:55+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-joseph-geogeais/</loc>
+		<loc>/mathurin-joseph-geogeais/</loc>
 		<lastmod>2023-10-18T16:28:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-marie-boscher/</loc>
+		<loc>/mathurin-marie-boscher/</loc>
 		<lastmod>2023-10-19T12:07:42+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/ernest-francois-marie-burlot/</loc>
+		<loc>/ernest-francois-marie-burlot/</loc>
 		<lastmod>2023-10-19T12:58:22+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-olliveaux/</loc>
+		<loc>/pierre-olliveaux/</loc>
 		<lastmod>2023-10-19T13:39:05+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-marie-olliveaux/</loc>
+		<loc>/jean-marie-olliveaux/</loc>
 		<lastmod>2023-10-18T15:26:13+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/hyacinthe-pierre-marie-jegu/</loc>
+		<loc>/hyacinthe-pierre-marie-jegu/</loc>
 		<lastmod>2023-10-19T14:05:07+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-carimalo/</loc>
+		<loc>/mathurin-carimalo/</loc>
 		<lastmod>2023-10-19T15:42:44+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/louis-carimalo/</loc>
+		<loc>/louis-carimalo/</loc>
 		<lastmod>2023-10-18T16:39:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/aime-francois-marie-denis/</loc>
+		<loc>/aime-francois-marie-denis/</loc>
 		<lastmod>2023-10-18T16:01:13+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-marie-expedit-rene-de-keranflech-kernezne/</loc>
+		<loc>/pierre-marie-expedit-rene-de-keranflech-kernezne/</loc>
 		<lastmod>2023-10-17T16:36:07+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-marie-perrot/</loc>
+		<loc>/francois-marie-perrot/</loc>
 		<lastmod>2023-10-18T16:15:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-marie-perrot/</loc>
+		<loc>/pierre-marie-perrot/</loc>
 		<lastmod>2023-10-19T14:25:04+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/aime-jean-baptiste-taldir/</loc>
+		<loc>/aime-jean-baptiste-taldir/</loc>
 		<lastmod>2023-10-18T15:41:53+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-louis-taldir/</loc>
+		<loc>/joseph-marie-louis-taldir/</loc>
 		<lastmod>2023-10-18T15:36:03+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/armand-rivalan-rivallan/</loc>
+		<loc>/armand-rivalan-rivallan/</loc>
 		<lastmod>2023-10-18T16:36:39+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-marie-alfred-garnier/</loc>
+		<loc>/pierre-marie-alfred-garnier/</loc>
 		<lastmod>2023-01-31T17:44:12+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/hilarion-le-meur/</loc>
+		<loc>/hilarion-le-meur/</loc>
 		<lastmod>2023-01-30T17:00:50+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-marie-briant/</loc>
+		<loc>/mathurin-marie-briant/</loc>
 		<lastmod>2023-10-19T13:48:46+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-marie-amoury/</loc>
+		<loc>/francois-marie-amoury/</loc>
 		<lastmod>2023-10-19T15:55:19+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-le-boudec/</loc>
+		<loc>/joseph-marie-le-boudec/</loc>
 		<lastmod>2023-10-19T16:04:16+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-baudic/</loc>
+		<loc>/joseph-marie-baudic/</loc>
 		<lastmod>2023-10-18T16:03:18+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-jules-bienvenue/</loc>
+		<loc>/mathurin-jules-bienvenue/</loc>
 		<lastmod>2022-06-26T14:13:20+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/alfred-marie-burlot/</loc>
+		<loc>/alfred-marie-burlot/</loc>
 		<lastmod>2023-10-18T16:17:35+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/esprit-jean-baptiste-rolland/</loc>
+		<loc>/esprit-jean-baptiste-rolland/</loc>
 		<lastmod>2023-10-18T16:21:11+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-marie-fraboulet/</loc>
+		<loc>/francois-marie-fraboulet/</loc>
 		<lastmod>2023-10-18T16:59:41+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/guillaume-pierre-marie-denis/</loc>
+		<loc>/guillaume-pierre-marie-denis/</loc>
 		<lastmod>2023-10-19T12:54:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/armand-burlot/</loc>
+		<loc>/armand-burlot/</loc>
 		<lastmod>2023-10-19T13:35:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/alexandre-toussaint-lozach/</loc>
+		<loc>/alexandre-toussaint-lozach/</loc>
 		<lastmod>2023-10-19T13:59:44+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-touze/</loc>
+		<loc>/joseph-marie-touze/</loc>
 		<lastmod>2023-10-19T15:18:43+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/aime-le-normand/</loc>
+		<loc>/aime-le-normand/</loc>
 		<lastmod>2023-10-19T16:01:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-tanguy/</loc>
+		<loc>/joseph-tanguy/</loc>
 		<lastmod>2023-10-19T16:06:21+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-marie-meheu/</loc>
+		<loc>/pierre-marie-meheu/</loc>
 		<lastmod>2023-10-17T16:37:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/henri-de-boisboissel/</loc>
+		<loc>/henri-de-boisboissel/</loc>
 		<lastmod>2022-06-27T16:17:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jules-ernest-jauny/</loc>
+		<loc>/jules-ernest-jauny/</loc>
 		<lastmod>2023-10-18T15:46:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/yves-marie-boscher/</loc>
+		<loc>/yves-marie-boscher/</loc>
 		<lastmod>2023-10-19T12:52:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-marie-beurel/</loc>
+		<loc>/mathurin-marie-beurel/</loc>
 		<lastmod>2023-03-22T16:43:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/alexis-joseph-marie-le-bot/</loc>
+		<loc>/alexis-joseph-marie-le-bot/</loc>
 		<lastmod>2023-10-19T13:54:48+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-marie-rolland/</loc>
+		<loc>/pierre-marie-rolland/</loc>
 		<lastmod>2023-10-19T15:15:20+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-baptiste-le-boudec/</loc>
+		<loc>/jean-baptiste-le-boudec/</loc>
 		<lastmod>2023-10-16T17:17:55+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le-jardin-de-chantal-et-joseph/</loc>
+		<loc>/le-jardin-de-chantal-et-joseph/</loc>
 		<lastmod>2024-02-04T17:35:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/compte-rendu-municipal-2020-2026/</loc>
+		<loc>/compte-rendu-municipal-2020-2026/</loc>
 		<lastmod>2024-06-15T12:34:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/le-gros-chene/</loc>
+		<loc>/le-gros-chene/</loc>
 		<lastmod>2022-05-13T09:19:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-marie-launay/</loc>
+		<loc>/mathurin-marie-launay/</loc>
 		<lastmod>2023-10-15T17:15:54+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/guillaume-marie-le-maout/</loc>
+		<loc>/guillaume-marie-le-maout/</loc>
 		<lastmod>2023-03-25T10:34:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/maries-1920/</loc>
+		<loc>/maries-1920/</loc>
 		<lastmod>2023-09-22T15:54:10+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-marie-le-moelle/</loc>
+		<loc>/francois-marie-le-moelle/</loc>
 		<lastmod>2023-10-12T09:07:28+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-tilly/</loc>
+		<loc>/joseph-marie-tilly/</loc>
 		<lastmod>2023-10-12T10:03:22+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-marie-rolland/</loc>
+		<loc>/mathurin-marie-rolland/</loc>
 		<lastmod>2023-10-12T13:53:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joachim-guillaume-robic/</loc>
+		<loc>/joachim-guillaume-robic/</loc>
 		<lastmod>2023-10-12T14:44:32+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/rene-eugene-marie-robic/</loc>
+		<loc>/rene-eugene-marie-robic/</loc>
 		<lastmod>2023-10-12T14:26:32+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-marie-loyo/</loc>
+		<loc>/jean-marie-loyo/</loc>
 		<lastmod>2023-10-12T15:27:08+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/pierre-marie-gregoire-le-dantec/</loc>
+		<loc>/pierre-marie-gregoire-le-dantec/</loc>
 		<lastmod>2023-10-12T16:14:19+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-marie-le-dantec/</loc>
+		<loc>/mathurin-marie-le-dantec/</loc>
 		<lastmod>2023-10-12T16:11:13+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-baptiste-le-roux/</loc>
+		<loc>/jean-baptiste-le-roux/</loc>
 		<lastmod>2023-10-12T16:24:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jacques-joseph-marie-le-pottier/</loc>
+		<loc>/jacques-joseph-marie-le-pottier/</loc>
 		<lastmod>2023-10-12T16:35:22+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/victor-jean-baptiste-le-pennec/</loc>
+		<loc>/victor-jean-baptiste-le-pennec/</loc>
 		<lastmod>2023-10-12T16:43:09+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/esprit-francois-le-pecheur/</loc>
+		<loc>/esprit-francois-le-pecheur/</loc>
 		<lastmod>2023-10-12T17:18:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/louis-marie-le-pecheur/</loc>
+		<loc>/louis-marie-le-pecheur/</loc>
 		<lastmod>2023-10-12T17:15:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/olivier-marie-eliot/</loc>
+		<loc>/olivier-marie-eliot/</loc>
 		<lastmod>2023-10-13T15:18:41+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/allain-marie-audren/</loc>
+		<loc>/allain-marie-audren/</loc>
 		<lastmod>2023-10-16T16:20:49+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/yves-marie-mathurin-baud/</loc>
+		<loc>/yves-marie-mathurin-baud/</loc>
 		<lastmod>2023-10-14T15:37:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/francois-marie-albert-cosson/</loc>
+		<loc>/francois-marie-albert-cosson/</loc>
 		<lastmod>2023-10-14T15:48:24+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-goueffic/</loc>
+		<loc>/joseph-marie-goueffic/</loc>
 		<lastmod>2023-10-14T16:26:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/mathurin-joseph-marie-gromy/</loc>
+		<loc>/mathurin-joseph-marie-gromy/</loc>
 		<lastmod>2023-10-14T16:59:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-jouan/</loc>
+		<loc>/joseph-marie-jouan/</loc>
 		<lastmod>2023-10-14T17:19:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-mathurin-marie-le-bihan/</loc>
+		<loc>/jean-mathurin-marie-le-bihan/</loc>
 		<lastmod>2023-10-15T17:09:30+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/felix-francois-marie-le-bihan/</loc>
+		<loc>/felix-francois-marie-le-bihan/</loc>
 		<lastmod>2023-10-15T17:08:09+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jean-mathurin-jaglin/</loc>
+		<loc>/jean-mathurin-jaglin/</loc>
 		<lastmod>2023-10-16T16:17:51+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/jules-francis-marie-le-flohic/</loc>
+		<loc>/jules-francis-marie-le-flohic/</loc>
 		<lastmod>2023-10-16T16:28:10+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/saint-gilles-vieux-marche.net/joseph-marie-guillo/</loc>
+		<loc>/joseph-marie-guillo/</loc>
 		<lastmod>2023-10-16T16:46:48+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 0ffe4fe87c043e53ddd044bb9139bd8e; Queries for sitemap: 3; Total queries: 15; Seconds: 0.02; Memory for sitemap: 1KB; Total memory: 6MB -->
+</urlset><!-- Request ID: f47ad3988d000d1dc905798bf50c289a; Queries for sitemap: 3; Total queries: 15; Seconds: 0.02; Memory for sitemap: 1KB; Total memory: 6MB -->

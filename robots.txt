@@ -2,5 +2,5 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: /saint-gilles-vieux-marche.net/sitemap.xml
-Sitemap: /saint-gilles-vieux-marche.net/sitemap.html
+Sitemap: /sitemap.xml
+Sitemap: /sitemap.html
