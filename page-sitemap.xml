@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='15 December 2024 18 h 27 min' -->
+<!-- generated-on='3 January 2025 17 h 11 min' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>/etang_de_gourveaux/</loc>
 		<lastmod>2022-03-26T13:56:19+00:00</lastmod>
@@ -458,7 +458,7 @@
 	</url>
 	<url>
 		<loc>/recensements/</loc>
-		<lastmod>2024-12-15T18:15:04+00:00</lastmod>
+		<lastmod>2025-01-03T17:00:55+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -554,7 +554,7 @@
 	</url>
 	<url>
 		<loc>/infos_communales/</loc>
-		<lastmod>2024-10-20T14:38:50+00:00</lastmod>
+		<lastmod>2025-01-03T16:46:30+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -944,7 +944,7 @@
 	</url>
 	<url>
 		<loc>/contact/</loc>
-		<lastmod>2024-01-02T08:45:27+00:00</lastmod>
+		<lastmod>2025-01-03T17:02:35+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -962,7 +962,7 @@
 	</url>
 	<url>
 		<loc>/patrimoine/</loc>
-		<lastmod>2023-10-16T17:29:56+00:00</lastmod>
+		<lastmod>2025-01-03T16:57:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -1466,7 +1466,7 @@
 	</url>
 	<url>
 		<loc>/compte-rendu-municipal-2020-2026/</loc>
-		<lastmod>2024-11-22T17:03:28+00:00</lastmod>
+		<lastmod>2025-01-03T17:05:36+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -1644,4 +1644,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: d242d8b805ecb9593ce1b569a71a8713; Queries for sitemap: 3; Total queries: 16; Seconds: 0.02; Memory for sitemap: 2MB; Total memory: 6MB -->
+</urlset><!-- Request ID: 557a5b77e499658849ee0322361de609; Queries for sitemap: 3; Total queries: 14; Seconds: 0.02; Memory for sitemap: 2MB; Total memory: 6MB -->
