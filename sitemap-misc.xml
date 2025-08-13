@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='22 July 2025 15 h 58 min' -->
+<!-- generated-on='13 August 2025 9 h 46 min' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>/</loc>
-		<lastmod>2025-07-22T15:52:51+00:00</lastmod>
+		<lastmod>2025-08-13T09:30:57+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
-</urlset><!-- Request ID: c4ec3dc7bb5adf0330b7f31d1062a90c; Queries for sitemap: 4; Total queries: 15; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
+</urlset><!-- Request ID: 495d704acb72ac73c05277a4d282215c; Queries for sitemap: 4; Total queries: 15; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
