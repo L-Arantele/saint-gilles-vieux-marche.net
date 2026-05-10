@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.23' -->
-<!-- generated-on='7 May 2026 16 h 33 min' -->
+<!-- generated-on='10 May 2026 13 h 10 min' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>/etang_de_gourveaux/</loc>
 		<lastmod>2022-03-26T13:56:19+00:00</lastmod>
@@ -554,7 +554,7 @@
 	</url>
 	<url>
 		<loc>/infos_communales/</loc>
-		<lastmod>2026-05-07T15:35:18+00:00</lastmod>
+		<lastmod>2026-05-10T12:58:37+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -1466,7 +1466,7 @@
 	</url>
 	<url>
 		<loc>/compte-rendu-municipal-2020-2026/</loc>
-		<lastmod>2026-03-31T09:53:52+00:00</lastmod>
+		<lastmod>2026-05-10T13:03:48+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -1644,4 +1644,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 6cbc61df51c49a0b2858e567bde8a854; Queries for sitemap: 3; Total queries: 14; Seconds: 0.01; Memory for sitemap: 1KB; Total memory: 6MB -->
+</urlset><!-- Request ID: 52acacd731ce0eca33eb667229329f6a; Queries for sitemap: 3; Total queries: 14; Seconds: 0.01; Memory for sitemap: 1KB; Total memory: 6MB -->
